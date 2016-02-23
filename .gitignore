@@ -1,0 +1,11 @@
+
+.vs/
+node_modules/
+typings/
+*.user
+
+src/TodoApp.Web/wwwroot/web.config
+src/TodoApp.Web/wwwroot/bundle.js
+
+*.g.ts
+*.g.d.ts

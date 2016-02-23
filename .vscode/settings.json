@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "typescript.tsdk": "./src/TodoApp.Web/node_modules/typescript/lib",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/node_modules/**/*": true,
+        "artifacts/": true,
+        "obj/": true,
+        ".vs/": true,
+        "**/*.xproj.user": true,
+        "**/project.lock.json": true
+    }
+}

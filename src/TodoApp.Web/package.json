@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "name": "typed-todo-app",
+  "private": true,
+  "devDependencies": {
+    "browserify": "13.0.0",
+    "gulp": "3.9.1",
+    "vinyl-source-stream": "1.1.0",
+    "tsify": "0.13.2",
+    "gulp-util": "3.0.7",
+    "relative": "3.0.2",
+    "run-sequence": "1.1.5",
+    "tsd": "0.6.5"
+  },
+  "dependencies": {
+    "es6-promise": "3.1.2",
+    "whatwg-fetch": "0.11.0",
+    "classnames": "2.2.3",
+    "director": "1.2.8",
+    "react": "0.14.7",
+    "react-dom": "0.14.7",
+    "react-router": "^2.0.0",
+    "requirejs": "2.1.22",
+    "todomvc-app-css": "2.0.4",
+    "todomvc-common": "1.0.2",
+    "typescript": "^1.8.0"
+  }
+}
